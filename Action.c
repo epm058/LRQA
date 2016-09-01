@@ -1,6 +1,6 @@
 Action()
 {
-
+//comment
 	web_url("kalimanjaro.hpeswlab.net", 
 		"URL=http://kalimanjaro.hpeswlab.net/", 
 		"Resource=0", 
