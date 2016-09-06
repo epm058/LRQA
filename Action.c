@@ -1,6 +1,7 @@
 Action()
 {
 //comment
+lr_think_time(7); //from the remote git repository
 	web_url("kalimanjaro.hpeswlab.net", 
 		"URL=http://kalimanjaro.hpeswlab.net/", 
 		"Resource=0", 
